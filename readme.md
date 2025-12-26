@@ -5,5 +5,5 @@ Built in Unity
 Testing 2D Movement in Unity
 
 Current Features:
-Kinematics
+Kinematics,
 Dynamic Arcady Movement (Traction, Acceleration and Frame Acceleration)
